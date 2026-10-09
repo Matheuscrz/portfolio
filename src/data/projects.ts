@@ -13,7 +13,7 @@ export const projects: Project[] = [
     name: 'ShopFlow',
     status: 'Em desenvolvimento',
     summary:
-      'E-commerce full-stack fictício, pensado como evidência técnica de arquitetura de soluções: serviços documentados com ADRs, diagramas C4 e fluxo de dados.',
+      'E-commerce full-stack fictício: serviços documentados com ADRs, diagramas C4 e fluxo de dados.',
     highlights: [
       'Ports and Adapters (Hexagonal) em cada serviço',
       'CDC com Debezium e busca com Elasticsearch',
